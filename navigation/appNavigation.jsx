@@ -9,6 +9,7 @@ import LoginScreen from '../screens/LoginScreen';
 import SignUpScreen from '../screens/SignUpScreen';
 import InputPhScreen from '../screens/InputPhScreen';
 import OtpNoScreen from '../screens/OtpNoScreen';
+import Notification from '../screens/Notification';
 
 const Stack = createNativeStackNavigator();
 
